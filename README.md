@@ -4,3 +4,5 @@ BoxMaster is a Android game made using the Unity Game Engine (Framework) and wri
 
 
 Link to Executable Download: https://herasrobert.itch.io/boxmaster
+
+Please Note: Development was solely done by me however I have used assets from various artists under the proper licensing.
