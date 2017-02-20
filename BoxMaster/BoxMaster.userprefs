@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Res\Game\Player\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Res\Game\Player\PlayerController.cs" Line="240" Column="55" />
+      <File FileName="Assets\Res\TitleScene\TitleSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\GeneralScripts\LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Res\Game\Spring\SpringController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Res\Game\SpikeBall\SpikeBallController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Res\Game\PipeFlower\PipeFlowerControllerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Res\Game\Box\BoxController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
