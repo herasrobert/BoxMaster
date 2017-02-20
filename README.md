@@ -1,7 +1,6 @@
-# Wuu-Lu
+# BoxMaster
+
+BoxMaster is a Android game made using the Unity Game Engine (Framework) and written in C#. Though it will run on Windows using the arrow keys, the control scheme is meant for a smart phone. It is a small 2d puzzle game where the player creates boxes to complete each level.
 
 
-Wuu-Lu is a small 2d puzzle game where you controll a square.
-I made using C# and the Unity Game Engine (Framework).
-
-Link to Executable Download: https://herasrobert.itch.io/wuu-lu
+Link to Executable Download: https://herasrobert.itch.io/boxmaster
